@@ -22,5 +22,27 @@
     { "id": 1, "name": "Experience mentor" },
     { "id": 2, "name": "Quality video" },
     { "id": 3, "name": "Affordable prices" }
+  ],
+  "plan": [
+    {
+      "id": 1,
+      "title": "Set Your Plan",
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever"
+    },
+    {
+      "id": 2,
+      "title": "Find Your Course",
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever"
+    },
+    {
+      "id": 3,
+      "title": "Book Your Seat",
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever"
+    },
+    {
+      "id": 4,
+      "title": "Get Certificate",
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever"
+    }
   ]
 }

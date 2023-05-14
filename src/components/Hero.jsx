@@ -7,7 +7,7 @@ export default function Hero() {
       <section className="text-gray-600 body-font">
         <div className="container  flex  py-5 md:flex-row flex-col items-center">
           <div className="lg:flex-grow px-5 md:w-full lg:w-1/3 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-            <h1 className="text-2xl sm:text-6xl leading-10  mb-4 font-poppins font-semiBold ">
+            <h1 className="text-2xl sm:text-6xl leading-10  mb-4 font-poppins font-semibold ">
               Get Skills
               <br />
               From Our Top

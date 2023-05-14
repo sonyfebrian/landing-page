@@ -31,9 +31,9 @@ export default function Navbar() {
     <>
       <header className="text-gray-600 body-font">
         <div className="container mx-auto lg:flex lg:flex-wrap p-5 flex-col md:flex-row items-center justify-between">
-          <span className="text-2xl leading-6 font-bold font-poppins text-cinnabar">
+          <h1 className="text-2xl leading-6 font-bold font-poppins text-cinnabar">
             Edu.dot
-          </span>{" "}
+          </h1>{" "}
           <nav
             className={`${
               isOpen ? "block" : "hidden"
