@@ -1,5 +1,21 @@
 {
-  "konten": "cek",
+  "features": [
+    {
+      "id": 1,
+      "title": "UI UX Design",
+      "price": "$ 59"
+    },
+    {
+      "id": 2,
+      "title": "Digital Marketing",
+      "price": "$ 79"
+    },
+    {
+      "id": 3,
+      "title": "Visual Design",
+      "price": "$ 99"
+    }
+  ],
   "menu": [
     {
       "id": 1,
@@ -43,6 +59,167 @@
       "id": 4,
       "title": "Get Certificate",
       "description": "Lorem Ipsum has been the industry's standard dummy text ever"
+    }
+  ],
+  "static": [
+    {
+      "id": 1,
+      "title": "Students",
+      "count": "1400+"
+    },
+    {
+      "id": 2,
+      "title": "Courses",
+      "count": "200+"
+    },
+    {
+      "id": 3,
+      "title": "Instructor",
+      "count": "150+"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Jennifer Williams"
+    },
+    {
+      "id": 2,
+      "name": "Jennifer Williams"
+    },
+    {
+      "id": 3,
+      "name": "Jennifer Williams"
+    }
+  ],
+  "learn": [
+    {
+      "id": 1,
+      "name": "About"
+    },
+    {
+      "id": 2,
+      "name": "What The Learner"
+    },
+    {
+      "id": 3,
+      "name": "Leadership"
+    },
+    {
+      "id": 4,
+      "name": "Careers"
+    },
+    {
+      "id": 5,
+      "name": "Catalog"
+    },
+    {
+      "id": 6,
+      "name": "For Inspiration"
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "name": "Classroom Courses"
+    },
+    {
+      "id": 2,
+      "name": "Virtual Classroom Courses"
+    },
+    {
+      "id": 3,
+      "name": "E-learning Courses"
+    },
+    {
+      "id": 4,
+      "name": "Video Courses"
+    },
+    {
+      "id": 5,
+      "name": "Online Courses"
+    }
+  ],
+  "community": [
+    {
+      "id": 1,
+      "name": "Learners"
+    },
+    {
+      "id": 2,
+      "name": "Partners"
+    },
+    {
+      "id": 3,
+      "name": "Competitor"
+    },
+    {
+      "id": 4,
+      "name": "Transaction"
+    },
+    {
+      "id": 5,
+      "name": "Blog"
+    },
+    {
+      "id": 6,
+      "name": "Teaching Center"
+    }
+  ],
+  "link": [
+    {
+      "id": 1,
+      "name": "Home"
+    },
+    {
+      "id": 2,
+      "name": "Professional Education"
+    },
+    {
+      "id": 3,
+      "name": "Courses"
+    },
+    {
+      "id": 4,
+      "name": "Admissions"
+    },
+    {
+      "id": 5,
+      "name": "Testimonial"
+    },
+    {
+      "id": 6,
+      "name": "Programs"
+    }
+  ],
+  "more": [
+    {
+      "id": 1,
+      "name": "Process"
+    },
+    {
+      "id": 2,
+      "name": "Impression"
+    },
+    {
+      "id": 3,
+      "name": "Impression"
+    },
+    {
+      "id": 4,
+      "name": "Team"
+    },
+    {
+      "id": 5,
+      "name": "Privacy"
+    },
+    {
+      "id": 6,
+      "name": "Help"
+    },
+    {
+      "id": 7,
+      "name": "Contact"
     }
   ]
 }
